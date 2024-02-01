@@ -1,2 +1,2 @@
-# CST336
-Projects for CST336
+# CST326
+Projects for CST326
